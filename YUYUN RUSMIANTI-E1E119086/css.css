@@ -1,0 +1,56 @@
+.navbar{
+    width: 100%;
+   background-color: powderblue;
+    padding: 30px;
+}
+span{
+    font-size: 30px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.nav-body {
+    width: 80%;
+    margin: auto;
+    padding: 100;
+}   
+.nav-body ul{
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.nav-body li{
+    display: inline;
+    padding: 10px;
+}
+a{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-size: 25px;
+}
+body{
+    background-image:url(background/IMG-20191128-WA0059.jpg) ;
+    margin: 0%;
+}
+.banner-color{
+    margin: auto;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: palevioletred;
+  font-size: 40px;
+  text-align: center;
+  padding: 120px;
+}
+.button{
+    cursor: pointer;
+    color: blanchedalmond;
+    background-color: black;
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+}
+.button:hover{
+    background: crimson;
+}
